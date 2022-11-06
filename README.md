@@ -4,4 +4,6 @@ I'm Alex, I study iOS development and as a hobby I'm interested in develop games
 ## List of game development projects
 | Project name  | Description |
 |:------------:|:-----------:|
-| Shoot the Map | A third-person shooter that uses the main subsystems of the engine: Animation Blueprints, Behavior Tree, Niagara, UMG |
+| MetalRenderer | WIP | 
+| ShootThisMap | A third-person shooter that uses the main subsystems of Unreal Engine: Animation Blueprints, Behavior Tree, Niagara, UMG |
+
