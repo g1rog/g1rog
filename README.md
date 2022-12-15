@@ -10,6 +10,5 @@ I study iOS development and as a hobby I'm interested in develop games using C++
 |:------------:|:-----------:|
 | FitnessApp |  | 
 | PopCorn | Remaster MS-DOS PopCorn game using WinAPI | 
-| MetalRenderer |  | 
 | ShootThisMap | A third-person shooter that uses the main subsystems of Unreal Engine: Animation Blueprints, Behavior Tree, Niagara, UMG |
 
